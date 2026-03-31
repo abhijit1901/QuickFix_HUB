@@ -3,7 +3,6 @@
 A MERN-based platform designed to simplify finding and booking trusted providers for everyday home services.  
 **Status:** Completed 😊  
 **Live Demo:** [QuickFix HUB on Render](https://quickfix-hub-1.onrender.com)
-
 ---
 
 ## Table of Contents
